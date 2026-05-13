@@ -1,0 +1,18 @@
+{
+  "Development": [
+    "org.gnome.Builder",
+    "com.visualstudio.code"
+  ],
+  "Gaming": [
+    "com.valvesoftware.Steam",
+    "net.lutris.Lutris"
+  ],
+  "Media": [
+    "org.videolan.VLC",
+    "com.spotify.Client"
+  ],
+  "Communication": [
+    "com.discordapp.Discord",
+    "org.telegram.desktop"
+  ]
+}
